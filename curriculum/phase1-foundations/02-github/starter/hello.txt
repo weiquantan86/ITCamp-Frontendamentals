@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Welcome to ITcamp!!!
 Hello my name is weiquan
+=======
+welcome to ITcamp!!!!
+Hello my name is weiquan
+i love bananas
+>>>>>>> branch1
